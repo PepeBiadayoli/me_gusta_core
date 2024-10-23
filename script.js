@@ -11,9 +11,9 @@ function manejarMeGusta(botonId, mostrarId) {
 }
 
 // // Aplicar la función a cada botón
-// manejarMeGusta("likebtn-1", "mostrarlike-1");
-// manejarMeGusta("likebtn-2", "mostrarlike-2");
-// manejarMeGusta("likebtn-3", "mostrarlike-3");
+manejarMeGusta("likebtn-1", "mostrarlike-1");
+manejarMeGusta("likebtn-2", "mostrarlike-2");
+manejarMeGusta("likebtn-3", "mostrarlike-3");
 
 
 // // Función para manejar los clics en los botones
